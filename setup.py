@@ -46,5 +46,5 @@ setup(
 
     packages=['dhl', 'dhl/resources'],
 
-    install_requires=['suds-jurko'],
+    install_requires=['suds-py3'],
 )
